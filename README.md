@@ -4,7 +4,7 @@ WebComponents based on [proxy-js](https://github.com/ap-dev-at-home/proxy-js).
 
 ## select-sheet
 
-Webcomponent displaying a set of options to select from.
+WebComponent displaying a set of options to select from.
 
 ### Constructor
 
