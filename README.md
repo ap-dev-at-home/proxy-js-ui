@@ -9,7 +9,7 @@ WebComponent displaying a set of options to select from.
 ### Constructor
 
 ```javascript
-new Select({  
+new SelectSheet({  
     title: 'Title'        //the title        - displayed in the sheets header
     items: [],            //array of objects - the items to provide selection from
                           //                 - the 'text' property will be displayed as the items representation
